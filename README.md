@@ -2,7 +2,7 @@
 
 #### _Tracks ICE raids and alerts users as raids are reported , 7/24/18_
 
-#### By _**Kelli McCloskey, Nikki Boyd, Ryan Putman, Devin Mounts & Renee Sarley**_
+#### Team _**Kelli McCloskey, Nikki Boyd, Ryan Putman, Devin Mounts & Renee Sarley**_
 
 ## Description
 
